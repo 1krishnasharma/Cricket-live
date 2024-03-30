@@ -47,10 +47,3 @@ The application can be configured via `application.properties` file located in `
 
 This backend API can be integrated with front-end applications, mobile apps, or other services to fetch live cricket match data, all match data, and point tables for ongoing tournaments.
 
-## Contributors
-
-- Your Name <youremail@example.com>
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
