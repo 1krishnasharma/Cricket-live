@@ -18,7 +18,7 @@ This project is a Java Spring Boot application that serves as a backend API for 
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/yourusername/cricket-backend.git
+    https://github.com/1krishnasharma/Cricket-live.git
     ```
 
 2. **Build the Project:**
